@@ -22,7 +22,8 @@ Implementación de Q-Learning para navegación autónoma de un robot E-puck que 
 
 <!-- Insertar aquí captura de pantalla o GIF del robot navegando -->
 
-![alt text](image-1.png)
+<img width="289" height="282" alt="image" src="https://github.com/user-attachments/assets/59029337-18c9-4330-b766-03b48e40cb99" />
+
 
 **Descripción**: Robot E-puck navegando desde la posición inicial (-0.7, -0.7) hasta el objetivo verde en (0.7, 0.7) tras N episodios de entrenamiento.
 
